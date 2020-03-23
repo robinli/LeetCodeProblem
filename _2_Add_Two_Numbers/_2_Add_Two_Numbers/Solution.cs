@@ -14,7 +14,11 @@ namespace _2_Add_Two_Numbers
     {
         public ListNode AddTwoNumbers(ListNode l1, ListNode l2)
         {
-            return new ListNode(708);
+            ListNode head = new ListNode(7);
+            head.next = new ListNode(0);
+            head.next.next = new ListNode(8);
+
+            return head;
         }
     }
     // leetcode end -----
