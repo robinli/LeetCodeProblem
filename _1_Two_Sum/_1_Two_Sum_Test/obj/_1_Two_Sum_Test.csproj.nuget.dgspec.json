@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\AzureDepOps\\LeetCode\\_1_Two_Sum\\_1_Two_Sum_Test\\_1_Two_Sum_Test.csproj": {}
+    "E:\\GitHub\\robinli\\LeetCodeProblem\\_1_Two_Sum\\_1_Two_Sum_Test\\_1_Two_Sum_Test.csproj": {}
   },
   "projects": {
-    "E:\\AzureDepOps\\LeetCode\\_1_Two_Sum\\_1_Two_Sum\\_1_Two_Sum.csproj": {
+    "E:\\GitHub\\robinli\\LeetCodeProblem\\_1_Two_Sum\\_1_Two_Sum\\_1_Two_Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AzureDepOps\\LeetCode\\_1_Two_Sum\\_1_Two_Sum\\_1_Two_Sum.csproj",
+        "projectUniqueName": "E:\\GitHub\\robinli\\LeetCodeProblem\\_1_Two_Sum\\_1_Two_Sum\\_1_Two_Sum.csproj",
         "projectName": "_1_Two_Sum",
-        "projectPath": "E:\\AzureDepOps\\LeetCode\\_1_Two_Sum\\_1_Two_Sum\\_1_Two_Sum.csproj",
+        "projectPath": "E:\\GitHub\\robinli\\LeetCodeProblem\\_1_Two_Sum\\_1_Two_Sum\\_1_Two_Sum.csproj",
         "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
-        "outputPath": "E:\\AzureDepOps\\LeetCode\\_1_Two_Sum\\_1_Two_Sum\\obj\\",
+        "outputPath": "E:\\GitHub\\robinli\\LeetCodeProblem\\_1_Two_Sum\\_1_Two_Sum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -62,14 +62,14 @@
         }
       }
     },
-    "E:\\AzureDepOps\\LeetCode\\_1_Two_Sum\\_1_Two_Sum_Test\\_1_Two_Sum_Test.csproj": {
+    "E:\\GitHub\\robinli\\LeetCodeProblem\\_1_Two_Sum\\_1_Two_Sum_Test\\_1_Two_Sum_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AzureDepOps\\LeetCode\\_1_Two_Sum\\_1_Two_Sum_Test\\_1_Two_Sum_Test.csproj",
+        "projectUniqueName": "E:\\GitHub\\robinli\\LeetCodeProblem\\_1_Two_Sum\\_1_Two_Sum_Test\\_1_Two_Sum_Test.csproj",
         "projectName": "_1_Two_Sum_Test",
-        "projectPath": "E:\\AzureDepOps\\LeetCode\\_1_Two_Sum\\_1_Two_Sum_Test\\_1_Two_Sum_Test.csproj",
+        "projectPath": "E:\\GitHub\\robinli\\LeetCodeProblem\\_1_Two_Sum\\_1_Two_Sum_Test\\_1_Two_Sum_Test.csproj",
         "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
-        "outputPath": "E:\\AzureDepOps\\LeetCode\\_1_Two_Sum\\_1_Two_Sum_Test\\obj\\",
+        "outputPath": "E:\\GitHub\\robinli\\LeetCodeProblem\\_1_Two_Sum\\_1_Two_Sum_Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -91,8 +91,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\AzureDepOps\\LeetCode\\_1_Two_Sum\\_1_Two_Sum\\_1_Two_Sum.csproj": {
-                "projectPath": "E:\\AzureDepOps\\LeetCode\\_1_Two_Sum\\_1_Two_Sum\\_1_Two_Sum.csproj"
+              "E:\\GitHub\\robinli\\LeetCodeProblem\\_1_Two_Sum\\_1_Two_Sum\\_1_Two_Sum.csproj": {
+                "projectPath": "E:\\GitHub\\robinli\\LeetCodeProblem\\_1_Two_Sum\\_1_Two_Sum\\_1_Two_Sum.csproj"
               }
             }
           }
