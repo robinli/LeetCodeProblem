@@ -4625,11 +4625,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\LeetCodeProblem\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers_Test\\_2_Add_Two_Numbers_Test.csproj",
+      "projectUniqueName": "E:\\GitHub\\robinli\\LeetCodeProblem\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers_Test\\_2_Add_Two_Numbers_Test.csproj",
       "projectName": "_2_Add_Two_Numbers_Test",
-      "projectPath": "E:\\LeetCodeProblem\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers_Test\\_2_Add_Two_Numbers_Test.csproj",
+      "projectPath": "E:\\GitHub\\robinli\\LeetCodeProblem\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers_Test\\_2_Add_Two_Numbers_Test.csproj",
       "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
-      "outputPath": "E:\\LeetCodeProblem\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers_Test\\obj\\",
+      "outputPath": "E:\\GitHub\\robinli\\LeetCodeProblem\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers_Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -4651,8 +4651,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\LeetCodeProblem\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers.csproj": {
-              "projectPath": "E:\\LeetCodeProblem\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers.csproj"
+            "E:\\GitHub\\robinli\\LeetCodeProblem\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers.csproj": {
+              "projectPath": "E:\\GitHub\\robinli\\LeetCodeProblem\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers.csproj"
             }
           }
         }

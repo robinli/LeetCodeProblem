@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\LeetCodeProblem\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers.csproj",
+      "projectUniqueName": "E:\\GitHub\\robinli\\LeetCodeProblem\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers.csproj",
       "projectName": "_2_Add_Two_Numbers",
-      "projectPath": "E:\\LeetCodeProblem\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers.csproj",
+      "projectPath": "E:\\GitHub\\robinli\\LeetCodeProblem\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers.csproj",
       "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
-      "outputPath": "E:\\LeetCodeProblem\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers\\obj\\",
+      "outputPath": "E:\\GitHub\\robinli\\LeetCodeProblem\\_2_Add_Two_Numbers\\_2_Add_Two_Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
